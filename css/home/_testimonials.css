@@ -30,8 +30,9 @@
     background-color: var(--green-97);
     padding: 40px 40px ;
     border-radius: 12px;
+    display: flex;;
     flex-direction: column;
-    margin-top: auto;
+   
    
 }
 
@@ -48,6 +49,7 @@ object-position: center;
     align-items: center;
     margin:0px -40px -40px -40px  ;
     padding: 30px 40px 30px 40px;
+    margin-top: auto;
 }
 
 .testimonials_author-img {
