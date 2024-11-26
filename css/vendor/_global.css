@@ -1,0 +1,20 @@
+.html {
+     overflow-x:hidden ;
+}
+.body{
+background-color: var(--green-97) ;
+color: var(--black) ;
+font-size: 18px;
+font-weight: 500;
+line-height: 1.5;
+font-family: var(--urbanist);
+}
+.container{
+max-width: 1626px ;
+margin: 0 auto ;
+padding: 0 15px;
+}
+
+.indent{
+margin-bottom: 150px;
+}
